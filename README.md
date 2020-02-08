@@ -1,8 +1,8 @@
 # Swagger-ui-url
 
-###This is a Swagger-ui which load the source from the url params of named url
+###这是一个从url参数中获取资源的Swagger-ui
 
-###First, you should build e swagger-ui server on 8080 port with this image
+###首先, 需要在本地搭建一个8080端口的Swagger-ui服务
 
 ##### demo
 ```.env
